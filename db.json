@@ -1,0 +1,158 @@
+{
+  "equippables": [
+    {
+      "id": 0,
+      "name": "King of Heart T-Shirt",
+      "image": ""
+    },
+    {
+      "id": 1,
+      "name": "Three Hearts T-Shirt",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Love for Mom T-Shirt",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "The Eiffel Tower T-Shirt",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Two Sides of the Heart T-Shirt",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "You and Me T-Shirt",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Echoes of Love T-Shirt",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "This is Love T-Shirt",
+      "image": ""
+    },
+
+    {
+      "id": 8,
+      "name": "Dual Love T-shirt",
+      "image": ""
+    },
+    {
+      "id": 9,
+      "name": "Two Sides of the Heart White Sweater",
+      "image": ""
+    },
+    {
+      "id": 10,
+      "name": "King of Heart White Sweater",
+      "image": ""
+    },
+    {
+      "id": 11,
+      "name": "Echoes of Love Red Sweater",
+      "image": ""
+    },
+    {
+      "id": 12,
+      "name": "King of Heart Red Sweater",
+      "image": ""
+    },
+    {
+      "id": 13,
+      "name": "My Love Red Sweater",
+      "image": ""
+    },
+    {
+      "id": 14,
+      "name": "You and Me Blue Sweater",
+      "image": ""
+    },
+    {
+      "id": 15,
+      "name": "Compass to Love Blue Sweater",
+      "image": ""
+    },
+    {
+      "id": 16,
+      "name": "Two Sides of the Heart Patterned Sweater",
+      "image": ""
+    },
+    {
+      "id": 17,
+      "name": "Papa White Sweater",
+      "image": ""
+    },
+    {
+      "id": 18,
+      "name": "Echoes of Love Light Blue Sweater",
+      "image": ""
+    },
+    {
+      "id": 19,
+      "name": "Blue Stylish Jeans",
+      "image": ""
+    },
+    {
+      "id": 20,
+      "name": "Dark Brown Khaki Trousers",
+      "image": ""
+    },
+    {
+      "id": 21,
+      "name": "Striped Gray Slacks",
+      "image": ""
+    },
+    {
+      "id": 23,
+      "name": "Striped Skirt",
+      "image": ""
+    },
+    {
+      "id": 24,
+      "name": "Fashionable Blue Skirt",
+      "image": ""
+    },
+    {
+      "id": 25,
+      "name": "Bold Red Skirt",
+      "image": ""
+    },
+    {
+      "id": 25,
+      "name": "Charming Patterned Skirt",
+      "image": ""
+    },
+    {
+      "id": 26,
+      "name": "Attention Grabbing Pants",
+      "image": ""
+    },
+    {
+      "id": 27,
+      "name": "Two Side of the Heart Uniform",
+      "image": ""
+    },
+    {
+      "id": 28,
+      "name": "",
+      "image": ""
+    },
+    {
+      "id": 29,
+      "name": "",
+      "image": ""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
